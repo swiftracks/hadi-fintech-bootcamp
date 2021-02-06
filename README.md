@@ -1,6 +1,5 @@
 # hadi-fintech-bootcamp
 
-- One
-- Two
-- Three
-- Four
+- Hadi Ismail
+- Leading FinTech solutions service provider
+- It's an evolving challenging space
